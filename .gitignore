@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 Capstone 3/test.ft.txt
 Capstone 3/train.ft.txt
+Capstone 3/test.ft.txt.bz2
+*.bz2
